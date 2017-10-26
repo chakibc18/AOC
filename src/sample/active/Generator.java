@@ -1,6 +1,5 @@
 package sample.active;
 
-public class Afficheur {
-	
+public class Generator {
 
 }
